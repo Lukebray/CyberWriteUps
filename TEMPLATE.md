@@ -1,4 +1,4 @@
-# [test]
+# [CHALLENGE NAME]
 
 **CTF:** [Event Name] **Category:** [Web / Pwn / Crypto / Rev / Forensics / Misc] **Points:** [XXX] **Difficulty:** [Easy / Medium / Hard] **Date:** [YYYY-MM-DD] **Author:** [Your Name / Team]
 
