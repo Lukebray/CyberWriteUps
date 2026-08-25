@@ -1,7 +1,7 @@
 # CHALLENGE_NAME
 
-**Category:** [Web / Pwn / Crypto / Rev / Forensics / Misc]
-**Date:** 2026-08-25 
+**Category:** [Web / Pwn / Crypto / Rev / Forensics / Misc]  
+**Date:** 2026-08-25  
 **Author:** Luke Bray
 
 ---
@@ -10,7 +10,8 @@
 
 > Paste the original challenge prompt/description here.
 
-**Files provided:** `file1`, `file2`, ... **Connection:** `nc host port`
+**Files provided:** `file1`, ...  
+**Connection:** `nc host port`
 
 ---
 
