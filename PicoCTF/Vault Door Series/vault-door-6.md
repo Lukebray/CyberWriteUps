@@ -71,7 +71,7 @@ flag{...}
 
 ## Lessons Learned
 
-I learned what XOR is.
+I learned what XOR is and that it can be reversed.
 I learned more about hex and that the 0x is just an indicator.
 
 ---
