@@ -87,14 +87,6 @@ public class MyClass {
 
 ---
 
-## Flag
-
-```
-flag{...}
-```
-
----
-
 ## Lessons Learned
 
 * Understand java loops more

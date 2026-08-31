@@ -61,14 +61,6 @@ Step-by-step walkthrough of how you solved it.
 
 ---
 
-## Flag
-
-```
-flag{...}
-```
-
----
-
 ## Lessons Learned
 
 I learned how java class StringBuffer works

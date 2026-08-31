@@ -69,14 +69,6 @@ print("".join(c for i, c in pairs))
 
 ---
 
-## Flag
-
-```
-picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_29e8d8}
-```
-
----
-
 ## Lessons Learned
 
 * Regex to do a split

@@ -54,14 +54,6 @@ Step-by-step walkthrough of how you solved it.
 
 ---
 
-## Flag
-
-```
-flag{...}
-```
-
----
-
 ## Lessons Learned
 
 * learned to identify hexa and octadecimal

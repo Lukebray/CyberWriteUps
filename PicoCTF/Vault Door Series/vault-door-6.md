@@ -61,14 +61,6 @@ Step-by-step walkthrough of how you solved it.
 
 ---
 
-## Flag
-
-```
-flag{...}
-```
-
----
-
 ## Lessons Learned
 
 I learned what XOR is and that it can be reversed.
