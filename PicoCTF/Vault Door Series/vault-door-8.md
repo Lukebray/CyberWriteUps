@@ -1,7 +1,7 @@
 # vault door 8
 
-**Category:** [Web / Pwn / Crypto / Rev / Forensics / Misc]  
-**Date:** 2026-08-25  
+**Category:** rev    
+**Date:** 2026-08-31   
 **Author:** Luke Bray
 
 ---
