@@ -16,7 +16,7 @@
 
 ## TL;DR
 
-The technique used was bit shifting. This code in particular moves the bit in position 1 to position 2 and vice versa. The vulnerability is that running the bit shift the opposite way can easily reverse the original shift. The exploit is to write a python script `unscramble`
+The technique used was bit shifting via a switchBits helper that swaps two specific bit positions in a byte. scramble() applies this 8 times with fixed position-pairs. Because each individual swap is self-inverse, the transformation can be undone by replaying the same swaps in reverse order.
 
 ---
 
@@ -24,16 +24,11 @@ The technique used was bit shifting. This code in particular moves the bit in po
 
 Format the source code to be able to read it properly. Read the comments in the source left by the developers. Look up what bit shifting is. 
 
-```
-# commands used
-
-```
-
 ---
 
 ## Vulnerability / Analysis
 
-The root cause is using the technique of bit shifting and only swapping the bits. The is easily reversible by simply running the bit shift in reverse. Creating a script to do so does this very quickly. 
+scramble() is a fixed, deterministic sequence of bit swaps with no secret key involved — every swap is self-inverse, and the full sequence can be undone by reversing the call order. This makes the encoding trivially reversible once the algorithm is understood.
 
 ---
 
@@ -129,9 +124,4 @@ print(''.join(my_pass))
   ```
   This doesn't work because bitwise operators don't have direct opposites like +/-
 
----
 
-## References
-
-- [Link 1](https://)
-- [Link 2](https://)
