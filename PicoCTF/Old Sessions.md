@@ -64,5 +64,5 @@ Learned that the session is set in the cooking and not in the session storage. I
 
 ## References
 
-- [Link 1]([https://](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#cookies))
-- [Link 2]
+- [Link 1](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#cookies)
+
