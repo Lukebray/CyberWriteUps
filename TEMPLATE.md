@@ -58,14 +58,6 @@ Step-by-step walkthrough of how you solved it.
 
 ---
 
-## Flag
-
-```
-flag{...}
-```
-
----
-
 ## Lessons Learned
 
 Anything new you learned, mistakes made along the way, or techniques worth remembering next time.
