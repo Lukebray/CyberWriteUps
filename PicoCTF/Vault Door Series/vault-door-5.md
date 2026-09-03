@@ -47,8 +47,6 @@ String expected = "JTYzJTMwJTZlJTc2JTMzJTcyJTc0JTMxJTZlJTY3JTVm" + "JTY2JTcyJTMw
 
 ## Exploitation / Solution
 
-Step-by-step walkthrough of how you solved it.
-
 1. Go to https://gchq.github.io/CyberChef/
 2. add a From Base64
 3. Below that add a URL Decode

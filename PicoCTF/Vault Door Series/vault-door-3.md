@@ -44,8 +44,6 @@ code was shuffling the letters with loops
 
 ## Exploitation / Solution
 
-Step-by-step walkthrough of how you solved it.
-
 1. Pasted the code into an online compiler
 2. Added print statements for buffer and s
 3. Ran it with the given scrambled password as an argument

@@ -49,8 +49,6 @@ for (int i=0; i<32; i++) {
 
 ## Exploitation / Solution
 
-Step-by-step walkthrough of how you solved it.
-
 1. Take myBytes and normalise them to remove 0xa. This can be done manually. 
 2. Go to cyberchef and use an XOR with the key of 0x55
 3. ding ding

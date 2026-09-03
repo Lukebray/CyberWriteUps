@@ -43,8 +43,6 @@ The route cause was leaving sessions permanently open. Sessions cookie was not s
 
 ## Exploitation / Solution
 
-Step-by-step walkthrough of how you solved it.
-
 1. Create a user account and login
 2. Navigate to /sessions in the url 
 3. Copy the value for the admin session. It will look like this: session:[VALUE HERE COPY THIS]

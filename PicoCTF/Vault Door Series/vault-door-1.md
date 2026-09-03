@@ -50,8 +50,6 @@ public boolean checkPassword(String password) {
 
 ## Exploitation / Solution
 
-Step-by-step walkthrough of how you solved it.
-
 1. Copy the vulnerable function to check.txt
 2. Create exploit.py
 3. Run exploit.py

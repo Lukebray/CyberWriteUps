@@ -45,8 +45,6 @@ The password was stored in an array called myBytes and it had the bytes but they
 
 ## Exploitation / Solution
 
-Step-by-step walkthrough of how you solved it.
-
 1. Go to cyber chef
 2. Use either from decimal, from hex or from octa and convert. Make sure deliminter is comma
 3. Paste the relevant row from myBytes
